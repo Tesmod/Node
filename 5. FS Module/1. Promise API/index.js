@@ -47,10 +47,9 @@ try {
 //     console.log(error);
 // }
 
-try {
-    const info = await fs.stat("README
-        .md")
-    console.log(info);
-} catch (error) {
-    console.log(error);
-}
+// try {
+//     const info = await fs.stat("README.md")
+//     console.log(info);
+// } catch (error) {
+//     console.log(error);
+// }
