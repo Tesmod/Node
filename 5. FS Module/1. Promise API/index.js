@@ -53,3 +53,16 @@ try {
 // } catch (error) {
 //     console.log(error);
 // }
+
+
+try {
+    await fs.writeFile("README.md", "Hello world!");
+} catch (error) {
+    console.log(error);
+}
+
+try {
+    await fs.copyFile("README.md", "info.txt");
+} catch (error) {
+    console.log(error);
+}
