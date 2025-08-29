@@ -1,0 +1,26 @@
+{
+  "name": "farouq",
+  "version": "1.0.0",
+  "description": "the best package ever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/tesmod.git"
+  },
+  "keywords": [
+    "awesome",
+    "javascript"
+  ],
+  "author": "Tesmod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/github.com/tesmod/issues"
+  },
+  "homepage": "https://github.com/github.com/tesmod#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
